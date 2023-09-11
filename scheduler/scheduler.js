@@ -46,3 +46,5 @@ addTask(400, '4');
 // 3
 // 1
 // 4
+
+module.exports = Scheduler;
