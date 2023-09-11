@@ -6,7 +6,9 @@ function flat(arr, depth = 1) {
   }, []);
 }
 
-const arr = [1, 2, [3, 4, [5, 6]]];
+// const arr = [1, 2, [3, 4, [5, 6]]];
 
-console.log(flat(arr, 1))
-console.log(arr.flat(1));
+// console.log(flat(arr, 1))
+// console.log(arr.flat(1));
+
+module.exports = flat;
