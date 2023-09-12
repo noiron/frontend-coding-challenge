@@ -11,3 +11,4 @@
 1. [实现数组的 flat 方法](./flat-array/readme.md)
 1. [实现 `Promise.all` 方法](./promise.all/readme.md)
 1. [模板字符串生成](./template-string/readme.md)
+1. [深拷贝 deep clone](./deep-clone/readme.md)
