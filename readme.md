@@ -4,6 +4,8 @@
 
 列表：
 
+1. [实现一个 `new` 方法](./new/index.md)
+1. [实现一个 `instanceof` 方法](./instanceof/readme.md)
 1. [debounce](./debounce/readme.md)
 1. [带并发限制的异步调度器](./sceduler/readme.md)
 1. [实现数组的 flat 方法](./flat-array/readme.md)

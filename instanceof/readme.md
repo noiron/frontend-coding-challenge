@@ -1,0 +1,1 @@
+实现一个 `instanceof` 函数。
