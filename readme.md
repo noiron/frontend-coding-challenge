@@ -6,7 +6,7 @@
 
 1. [实现一个 `new` 方法](./new/index.md)
 1. [实现一个 `instanceof` 方法](./instanceof/readme.md)
-1. [debounce](./debounce/readme.md)
+1. [`debounce`](./debounce/readme.md)
 1. [`throttle`](./throttle/readme.md)
 1. [实现数组的 flat 方法](./flat-array/readme.md)
 1. [使用 `setTimeout` 来实现 `setInterval`](./set-interval/readme.md)
@@ -14,3 +14,4 @@
 1. [模板字符串生成](./template-string/readme.md)
 1. [带并发限制的异步调度器](./scheduler/readme.md)
 1. [深拷贝 deep clone](./deep-clone/readme.md)
+1. [实现数字整数部分的千分位分隔符](./thousands-comma-separator/readme.md)
