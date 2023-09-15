@@ -4,6 +4,7 @@
 
 ## 题目列表
 
+1. [`call`](./call/readme.md)
 1. [实现一个 `new` 方法](./new/index.md)
 1. [实现一个 `instanceof` 方法](./instanceof/readme.md)
 1. [`debounce`](./debounce/readme.md)
