@@ -7,6 +7,7 @@
 1. [实现一个 `new` 方法](./new/index.md)
 1. [实现一个 `instanceof` 方法](./instanceof/readme.md)
 1. [debounce](./debounce/readme.md)
+1. [`throttle`](./throttle/readme.md)
 1. [实现数组的 flat 方法](./flat-array/readme.md)
 1. [使用 `setTimeout` 来实现 `setInterval`](./set-interval/readme.md)
 1. [实现 `Promise.all` 方法](./promise.all/readme.md)
