@@ -2,9 +2,12 @@
 
 题目收集自网络及我在面试中遇到的问题。每道题目有相应的 Jest 测试文件（在 ChatGPT 的帮助下生成），可以用于测试代码的正确性。
 
+使用 `npx jest [文件夹名]` 来单独测试一道题目，比如 `npx jest promise-with-timeout`。
+
 ## 题目列表
 
 1. [`call`](./call/readme.md)
+1. [`apply`](./apply/readme.md)
 1. [实现一个 `new` 方法](./new/index.md)
 1. [实现一个 `instanceof` 方法](./instanceof/readme.md)
 1. [`debounce`](./debounce/readme.md)
