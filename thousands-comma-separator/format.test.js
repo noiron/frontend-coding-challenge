@@ -12,8 +12,8 @@ describe('format function', () => {
   });
 
   it('should format "1234567.8999" as "1,234,567.8999"', () => {
-    const formatted = format('1234567.89');
-    expect(formatted).toBe('1,234,567.89');
+    const formatted = format('1234567.8999');
+    expect(formatted).toBe('1,234,567.8999');
   });
 
   it('should handle numbers without fractional part', () => {
