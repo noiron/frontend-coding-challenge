@@ -16,6 +16,7 @@
 1. [函数柯里化](./curry/readme.md)
 1. [使用 `setTimeout` 来实现 `setInterval`](./set-interval/readme.md)
 1. [实现 `Promise.all`](./promise.all/readme.md)
+1. [实现 `Promise.prototype.finally()`](./promise-finally/readme.md)
 1. [实现会超时的 Promise](./promise-with-timeout/readme.md)
 1. [深拷贝 deep clone](./deep-clone/readme.md)
 1. [实现 EventEmitter](./event-emitter/readme.md)
