@@ -27,3 +27,5 @@
 1. [打乱数组](./shuffle-array/readme.md)
 1. [驼峰命名和连字符间的转换](./camel-or-dash/readme.md)
 1. [将数组转换成树结构](./array-to-tree/readme.md)
+1. [比较版本号](./compare-versions/readme.md)
+
