@@ -19,6 +19,7 @@
 1. [实现 `Promise.all`](./promise.all/readme.md)
 1. [实现 `Promise.prototype.finally()`](./promise-finally/readme.md)
 1. [实现会超时的 Promise](./promise-with-timeout/readme.md)
+1. [实现 promise](./promise/readme.md)  #todo
 1. [实现 `promisify`](./promisify/readme.md)
 1. [深拷贝 deep clone](./deep-clone/readme.md)
 1. [实现 EventEmitter](./event-emitter/readme.md)
