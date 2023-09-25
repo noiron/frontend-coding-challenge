@@ -30,4 +30,5 @@
 1. [驼峰命名和连字符间的转换](./camel-or-dash/readme.md)
 1. [将数组转换成树结构](./array-to-tree/readme.md)
 1. [比较版本号](./compare-versions/readme.md)
+1. [将 URL 上的 query string 解析为一个对象](./parse-query-string/readme.md)
 
