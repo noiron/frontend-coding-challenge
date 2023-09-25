@@ -14,7 +14,7 @@ function parseQueryString(url) {
     } else {
       value = decodeURIComponent(value);
     }
-    if (!queryStringObj[key]) {
+    if (!queryStringObj.hasOwnProperty(key)) {
       queryStringObj[key] = value;
     } else {
       queryStringObj[key] = [].concat(queryStringObj[key], value);
@@ -27,6 +27,6 @@ function parseQueryString(url) {
 // const url =
 //   'http://www.domain.com/?user=admin&id=123&id=456&city=%E5%8C%97%E4%BA%AC&enabled';
 
-// parseQueryString(url);
+// console.log(parseQueryString(url));
 
 module.exports = parseQueryString;

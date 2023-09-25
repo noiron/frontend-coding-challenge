@@ -61,4 +61,14 @@ describe('parseQueryString', () => {
 
     expect(result).toEqual({});
   });
+
+  it('should correctly identify 0 values', () => {
+    const url = 'http://www.domain.com/?id=0&id=1';
+    const result = parseQueryString(url);
+  
+    expect(result).toEqual({
+      id: [0, 1],
+    });
+  });
+  
 });
