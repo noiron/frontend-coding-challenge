@@ -14,6 +14,7 @@
 1. [`debounce`](./debounce/readme.md)
 1. [`throttle`](./throttle/readme.md)
 1. [实现数组的 flat 方法](./flat-array/readme.md)
+1. [扁平化一个对象](./flat-object/readme.md)
 1. [函数柯里化](./curry/readme.md)
 1. [使用 `setTimeout` 来实现 `setInterval`](./set-interval/readme.md)
 1. [实现 `Promise.all`](./promise.all/readme.md)
