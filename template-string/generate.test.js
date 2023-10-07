@@ -1,4 +1,5 @@
 const generate = require('./generate');
+// const generate = require('./generate.blank');
 
 describe('generate function', () => {
   it('should replace variables in the template with corresponding values', () => {
