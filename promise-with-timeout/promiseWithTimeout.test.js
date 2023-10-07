@@ -1,4 +1,5 @@
 const promiseWithTimeout = require('./promiseWithTimeout');
+// const promiseWithTimeout = require('./promiseWithTimeout.blank');
 
 describe('promiseWithTimeout function', () => {
   it('should return the original promise if it resolves before the timeout', async () => {
