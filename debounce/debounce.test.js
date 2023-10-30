@@ -1,4 +1,5 @@
 const debounce = require('./debounce');
+// const debounce = require('./debounce.blank');
 
 describe('debounce function', () => {
   jest.useFakeTimers(); // 使用Jest的模拟定时器功能

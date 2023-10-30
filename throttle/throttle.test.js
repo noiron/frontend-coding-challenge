@@ -1,4 +1,5 @@
 const throttle = require('./throttle');
+// const throttle = require('./throttle.blank');
 
 describe('throttle function', () => {
   jest.useFakeTimers(); // Use Jest's fake timers
