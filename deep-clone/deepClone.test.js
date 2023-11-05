@@ -1,4 +1,5 @@
 const deepClone = require('./deepClone');
+// const deepClone = require('./deepClone.blank');
 
 describe('deepClone function', () => {
   it('should deep clone an object', () => {
