@@ -33,4 +33,4 @@
 1. [比较版本号](./compare-versions/readme.md)
 1. [将 URL 上的 query string 解析为一个对象](./parse-query-string/readme.md)
 1. [统计页面上有多少种标签](./html-element-types/readme.md)
-
+1. [数组去重](./unique/readme.md)
