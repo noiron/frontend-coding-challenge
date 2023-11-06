@@ -1,4 +1,5 @@
 const flatObject = require('./flatObject');
+// const flatObject = require('./flatObject.blank');
 
 describe('flatObject', () => {
   it('should flatten a nested object', () => {
